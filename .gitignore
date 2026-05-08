@@ -1,0 +1,9 @@
+backend/.venv/
+backend/student_warning.db
+backend/.env
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+__pycache__/
+*.pyc
+.DS_Store
